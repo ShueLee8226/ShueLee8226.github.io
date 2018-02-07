@@ -10,7 +10,7 @@ This is a testing[ Github Page ](https://github.com/)
 
 ## Simple1 
 
-This will be a link to the script it wrote[Script](https://github.com/ShueLee8226)
+This will be a link to the script it wrote [Script](https://github.com/ShueLee8226)
 
 ### Markdown
 
