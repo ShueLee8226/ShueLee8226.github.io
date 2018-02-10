@@ -34,6 +34,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+###Script
+This will show an example of a basic script
+```
+#!/bin/bash
+clear
+echo "Hello World"
+echo "If this part appear, we good"
+
+```
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
